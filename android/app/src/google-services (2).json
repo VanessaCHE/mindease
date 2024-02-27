@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735644917916",
+    "project_id": "mindease-23a25",
+    "storage_bucket": "mindease-23a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735644917916:android:69910bf1269301e3080d59",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOZt3hnYKM2V_ED1e8Z0dpyfQ8PTCau6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
